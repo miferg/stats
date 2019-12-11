@@ -1,2 +1,2 @@
 # stats
-housekeeping statistic functions
+housekeeping statistical functions
